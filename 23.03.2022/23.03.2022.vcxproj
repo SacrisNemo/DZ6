@@ -147,6 +147,8 @@
     <ClCompile Include="Compare.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\09.02.2022\09.02.2022\Complex.h" />
+    <ClInclude Include="..\..\16.03.2022\16.03.2022\DZ5.h" />
     <ClInclude Include="Compare.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
