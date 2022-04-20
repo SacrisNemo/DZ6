@@ -1,7 +1,6 @@
 #ifndef COMPARE_H
 #define COMPARE_H
 
-#include "DZ5.h"
 #include <iostream>
 
 struct Complex
